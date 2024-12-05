@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building AI Agents<br>👯 I’m looking to collaborate on building data-centric solutions<br>🤝 I’m looking for help with deploying AI solutions in the Cloud<br>🌱 I’m currently learning Cloud Engineering<br>💬 Ask me about Data Science and AI<br>⚡ Fun fact: I am a sponge
+🔭 I’m currently working on building AI Agents and Agentic Workflows<br>👯 I’m looking to collaborate on building data-centric solutions<br>🤝 I’m looking for help with deploying AI solutions in the Cloud<br>🌱 I’m currently learning Cloud Engineering<br>💬 Ask me about Data Science and AI<br>⚡ Fun fact: I am a sponge
 
 
 ## 🌐 Socials:
